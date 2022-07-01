@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Asthan</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
+<img align="right" alt="Coding" width="400" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthasthan&label=Profile%20views&color=be38f3&style=flat-square" alt="samarthasthan" /> </p>
 
